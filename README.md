@@ -1,2 +1,2 @@
-# yolo-achievement-btw
-YOLO achievement idc
+# achievements-btw
+1 achievement idc
